@@ -1,0 +1,16 @@
+From ubuntu:bionic
+RUN apt update
+RUN DEBIAN_FRONTEND="noninteractive" apt install -y pulseaudio cmake libitpp-dev gnuradio gnuradio-dev gr-osmosdr librtlsdr-dev libuhd-dev  libhackrf-dev libitpp-dev libpcap-dev cmake git swig build-essential pkg-config doxygen python-numpy python-waitress python-requests gnuplot-x11 sox
+
+RUN cd /root/ && git clone https://github.com/osmocom/op25
+COPY install.sh /root/op25/install.sh
+RUN cd /root/op25 && ./install.sh
+
+# You could mount these with -v if you want, but this is easier
+COPY config/blacklist.tsv /root/op25/op25/gr-op25_repeater/apps/
+COPY config/whitelist.tsv /root/op25/op25/gr-op25_repeater/apps/
+COPY config/tags.tsv /root/op25/op25/gr-op25_repeater/apps/
+COPY config/trunk.tsv /root/op25/op25/gr-op25_repeater/apps/
+
+# If you use entrypoint here part of the CLI interface for op25 doesn't show up
+COPY bashrc /root/.bashrc
