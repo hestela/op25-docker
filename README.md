@@ -1,4 +1,5 @@
 # Run OP25 in a docker container
+![op25-docker](https://github.com/hestela/op25-docker/blob/master/screenshot.png?raw=true)
 I made this because I found it basically impossible to get op25 to run in Ubuntu 20.04.
 This was due to op25 mainly running on python2 but the main dependency for op25,
 gnuradio has moved on to python3 in version 3.8.
