@@ -31,4 +31,6 @@ If that doesn't work create this file /etc/modprobe.d/docker-sound.conf with con
 `options snd_hda_intel index=1`
  and reboot.
 
-When you are satisfied with your edits you can build the container with `docker build . -t op25` and then run op25 with run.sh or copy the docker run command from that file.
+When you are satisfied with your edits you can build the container with `docker build . -t op25`.
+You can build the boatbod fork with `docker build . -t op25-boatbod`.
+Then run op25 with run.sh (or run-boatbod.sh) or copy the docker run command from that file.
