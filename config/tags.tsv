@@ -1,261 +1,177 @@
-35700	Interop
-35701	Interop
-35702	Interop
-35703	Interop
-35704	Interop
-35705	Interop
-35706	Interop
-35707	Interop
-35708	Interop
-35709	Interop
-35710	Interop
-35711	Interop
-35712	Interop
-35713	Interop
-35729	Interop
-35730	Interop
-35731	Interop
-35732	Interop
-35733	Interop
-35734	Interop
-35735	Interop
-35736	Interop
-35714	Interop
-35715	Interop
-35716	Interop
-35717	Interop
-35718	Interop
-35719	Interop
-35720	Interop
-35721	Interop
-35737	Interop
-35738	Interop
-35739	Interop
-35740	Interop
-35741	Interop
-35742	Interop
-35743	Interop
-35744	Interop
-35722	Interop
-35723	Interop
-35724	Interop
-35725	Interop
-35726	Interop
-35727	Interop
-35728	Public Works
-
-1801	Law Tac
-1802	Law Tac
-1822	Security
-1824	Public Works
-2701	Fire Dispatch
-2702	Fire-Tac
-
-2301	Fire-Tac
-2303	Fire-Tac
-2304	Fire-Tac
-2305	Fire-Tac
-
-4752	Law Dispatch
-
-1101	Law Dispatch
-1102	Law Tac
-
-1151	Law Dispatch
-1152	Law Tac
-1153	Law Tac
-1154	Law Tac
-1155	Law Tac
-
-1251	Law Dispatch
-1252	Law Tac
-1256	Law Tac
-1257	Public Works
-
-1301	Law Dispatch
-1302	Law Tac
-1303	Law Tac
-2201	Fire Dispatch
-2202	Fire-Tac
-
-1401	Law Dispatch
-1402	Law Tac
-1403	Law Tac
-
-1451	Law Dispatch
-1452	Law Tac
-1453	Law Tac
-1454	Law Tac
-1455	Law Tac
-2351	Fire Dispatch
-2352	Fire-Tac
-2353	Fire-Tac
-
-1501	Law Dispatch
-1502	Law Tac
-1503	Law Tac
-1504	Law Tac
-1505	Law Tac
-1506	Emergency Ops
-1507	Law Tac
-1508	Law Tac
-1509	Public Works
-2401	Fire Dispatch
-2402	Fire-Tac
-2403	Fire-Tac
-2404	Public Works
-3501	Public Works
-3511	Utilities
-3512	Utilities
-3513	Utilities
-
-1551	Law Dispatch
-1552	Law Dispatch
-1553	Law Dispatch
-1554	Law Dispatch
-1555	Law Dispatch
-1556	Law Dispatch
-1557	Law Dispatch
-1558	Law Dispatch
-1559	Law Tac
-1561	Law Tac
-1562	Law Tac
-1563	Law Tac
-1564	Law Tac
-1565	Law Tac
-1566	Law Tac
-1567	Law Tac
-1569	Law Tac
-1570	Law Tac
-1572	Public Works
-1574	Law Tac
-2451	Fire Dispatch
-2452	Fire-Tac
-2453	Fire-Tac
-2454	Fire-Tac
-2457	Fire-Tac
-2458	Fire-Tac
-2471	Multi-Tac
-2472	Multi-Tac
-2473	Multi-Tac
-2474	Multi-Tac
-2475	Multi-Tac
-2476	Multi-Tac
-2477	Multi-Tac
-2478	Multi-Tac
-3551	Public Works
-
-4761	Law Dispatch
-4762	Law Tac
-4763	Law Tac
-4764	Law Tac
-4765	Law Tac
-4766	Law Tac
-
-4801	Law Dispatch
-
-1650	Law Tac
-1651	Law Dispatch
-1652	Law Tac
-1653	Law Tac
-1654	Law Tac
-1655	Law Talk
-1656	Law Talk
-1657	Law Talk
-1658	Law Tac
-1659	Law Talk
-1660	Law Talk
-1661	Law Talk
-2551	Fire Dispatch
-2552	Fire-Tac
-2553	Fire-Tac
-2554	Fire-Tac
-2555	Fire-Tac
-2556	Fire-Tac
-2557	Fire-Tac
-2558	Fire-Tac
-2559	Fire-Tac
-3651	Public Works
-3652	Public Works
-3653	Public Works
-3654	Public Works
-3655	Public Works
-3656	Public Works
-3657	Public Works
-3658	Public Works
-3659	Public Works
-
-1809	Security
-1814	Hospital
-
-4771	Transportation
-4772	Transportation
-4773	Transportation
-4774	Transportation
-4775	Transportation
-4776	Transportation
-4777	Transportation
-4778	Transportation
-4779	Transportation
-4781	Transportation
-4786	Transportation
-4787	Transportation
-4790	Transportation
-4791	Transportation
-4792	Transportation
-4793	Transportation
-4794	Transportation
-4795	Transportation
-4796	Transportation
-4797	Transportation
-4798	Transportation
-
-4551	Utilities
-4552	Utilities
-4553	Utilities
-4554	Utilities
-4555	Utilities
-4556	Utilities
-4557	Utilities
-4558	Utilities
-4559	Utilities
-
-1751	Law Dispatch
-1752	Law Tac
-1753	Law Tac
-1754	Law Tac
-1755	Law Tac
-1756	Law Tac
-1757	Law Tac
-1758	Law Tac
-1759	Law Tac
-2651	Fire Dispatch
-2652	Fire-Tac
-2653	Fire-Tac
-2654	Fire-Tac
-2655	Fire-Tac
-2656	Fire-Tac
-2657	Fire-Tac
-2658	Fire-Tac
-2659	Fire-Tac
-3751	Public Works
-3752	Public Works
-3753	Public Works
-3754	Public Works
-3755	Public Works
-3756	Public Works
-3757	Public Works
-3758	Public Works
-3759	Public Works
-3760	Public Works
-3761	Public Works
-
-3762	Utilities
-3763	Utilities
-3764	Utilities
-3765	Utilities
-
-65531	Public Works
-65532	Public Works
-65533	Public Works
-65534	Public Works
+1151	Los Altos PD 1
+1251	Los Gatos PD1
+1252	Los Gatos PD2
+1257	Los Gatos PW
+1301	Milpitas PD 1
+1451	MTV PD1
+1452	MTV PD 2
+1454	MTV PD 4
+1455	MTV SE Police S
+1501	Palo Alto PD 1
+1509	Palo Alto AnmlSv
+1563	SJPD 12
+1564	SJPD 13
+1565	SJPD 14
+1566	SJPD 15
+1567	SJPD 16
+1572	San Jose AC
+1650	SantaClara PD CW
+1651	SantaClara PD1
+1652	SantaClara PD2
+1653	SantaClara PD3
+1654	SantaClara PD4
+1658	SantaClara PD8
+1659	SantaClara PD9
+1660	SantaClara PD10
+1661	SantaClara PD11
+1751	Sunnyvale PD1
+1752	Sunnyvale PD2
+1753	Sunnyvale PD3
+1756	Sunnyvale PD6
+1759	Sunnyvale PD9
+1814	SCVMC ADMIN
+1822	SC ProtectiveSvc
+1824	SCC ACC MAIN
+2201	Milpitas FD1
+2202	MilpitasFD CMD87
+2301	MRG CMD 57
+2303	MRG CMD 58
+2304	MRG CMD 59
+2305	SCC CMD 67
+2351	MTV FD1
+2352	MTV FD CMD51
+2401	PA FD 1
+2402	PA FD CMD61
+2404	PAF TGRANGR
+2451	SJFD Dispatch
+2452	SJFD CMD 21
+2453	SJFD CMD 22
+2454	SJFD CMD 23
+2457	SJFD Training 1
+2458	SJFD Training 2
+2551	SantaClara FD1
+2552	SntaClraFD CMD92
+2553	SntaClraFD CMD93
+2554	SntaClraFD CMD94
+2555	SntaClraFD CMD95
+2556	SntaClraFD CMD96
+2557	SantaClara FD7
+2558	SantaClara FD8
+2559	SantaClara FD9
+2651	Sunnyvale FD1
+2652	Sunnyvale FD2
+2653	Sunnyvale FD3
+2654	SunnyvleFD CMD44
+2655	SunnyvleFD CMD45
+2656	SunnyvleFD CMD46
+2657	Sunnyvale FD7
+2658	Sunnyvale FD8
+2659	Sunnyvale FD9
+2701	SCCFD DISPATCH
+2702	SCCFD CMD 71
+3501	Palo Alto PW Str
+3511	PA Water/Gas/WW
+3512	Palo Alto Elec
+3513	PA Utility Tac
+3551	San Jose MWC
+35700	SB Calling
+35701	SB IO 1
+35702	SB IO 2
+35703	SB IO 3
+35704	SB IO 4
+35705	SB IO 5
+35706	SB Law 1
+35707	SB Law 2
+35708	SB Law 3
+35709	SB Law 4
+35710	SB Law 5
+35711	SB Law 6
+35714	SB Fire 1
+35715	SB Fire 2
+35716	SB Fire 3
+35717	SB Fire 4
+35718	SB Fire 5
+35719	SB Fire 6
+35723	SB EMS 2
+35724	SB PW 1
+35725	SB PW 2
+35726	SB LG 1
+35727	SB LG 2
+35728	SVRCS Radio Techs
+35729	SB Law 9
+35730	SB Law 10
+35731	SB Law 11	
+35732	SB Law 12	
+35733	SB Law 13
+35734	SB Law 14
+35737	SB Fire 9
+35738	SB Fire 10
+35739	SB Fire 11
+35740	SB Fire 12
+35741	SB Fire 13
+35742	SB Fire 14
+35743	SB Fire 15
+3651	SantaClara PW1
+3652	SantaClara PW2
+3653	SantaClara PW3
+3654	SantaClara PW4
+3655	SantaClara PW5
+3656	SantaClara PW6
+3657	SantaClara PW7
+3658	SantaClara PW8
+3659	SantaClara PW9
+3751	Sunnyvale PW1
+3752	Sunnyvale PW2
+3753	Sunnyvale PW3
+3754	Sunnyvale PW4
+3755	Sunnyvale PW5
+3756	Sunnyvale Water1
+3757	Sunnyvale Water2
+3758	Sunnyvale Water3
+3759	Sunnyvale Sewer1
+3760	Sunnyvale Sewer2
+3761	Sunnyvale Water4
+3762	SWPCP 1
+3763	SWPCP 2
+3764	SWPCP 3
+3765	SWPCP 4
+4551	SVP 1
+4552	SVP 2
+4553	SVP 3
+4554	SVP 4
+4555	SVP 5
+4556	SVP GEN 1
+4557	SVP GEN 2
+4558	SVP GEN 3
+4559	SVP STANDBY
+4752	FDCCD PD
+4761	SJSU PD1
+4762	SJSU PD OPS
+4763	SJSU PD SE
+4765	SJSU PD Library
+4766	SJSU PD Parking
+4771	SCVTA Bus 1
+4772	SCVTA Bus 2
+4773	SCVTA Bus 3
+4774	SCVTA Bus 4
+4775	SCVTA Bus 5
+4776	SCVTA Support
+4777	SCVTA LR 1
+4778	SCVTA LR2
+4779	SCVTA 7
+4781	SCVTA Event 1
+4786	SCVTA WPS1
+4787	SCVTA WPS2
+4790	SCVTA LR EA1
+4791	SCVTA LR EA2
+4792	SCVTA GUAD
+4793	SCVTA CERONE
+4794	SCVTA CHABOYA
+4795	SCVTA NORTH
+4796	SCVTA Cerone Yd2
+4797	SCVTA ChaboyaYd2
+4798	SCVTA North Yard
+4801	SJECCD PD
+65531	Radio Tech 1
+65532	Radio Tech 2
+65533	Radio Tech 3
