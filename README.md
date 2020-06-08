@@ -34,3 +34,9 @@ If that doesn't work create this file /etc/modprobe.d/docker-sound.conf with con
 When you are satisfied with your edits you can build the container with `docker build . -t op25`.
 You can build the boatbod fork with `docker build . -t op25-boatbod`.
 Then run op25 with run.sh (or run-boatbod.sh) or copy the docker run command from that file.
+
+### Gnuplot
+I modified my run script to add environment variables like it mentions at
+http://wiki.ros.org/docker/Tutorials/GUI
+I used "The simple way" section. I can't get it to work on osmocom p25 but,
+it works on the boatbod repo.
