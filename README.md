@@ -31,4 +31,4 @@ If that doesn't work create this file /etc/modprobe.d/docker-sound.conf with con
 `options snd_hda_intel index=1`
  and reboot.
 
-When you are satisfied with your edits you can run run.sh or copy the docker run command from there.
+When you are satisfied with your edits you can build the container with `docker build . -t op25` and then run op25 with run.sh or copy the docker run command from that file.
